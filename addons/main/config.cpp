@@ -1,11 +1,16 @@
+#include "script_component.hpp"
+
 class CfgPatches {
-    class sogvanillamainmenu {
-        requiredAddons[] = {
-            "vn_emm_main_menu"
-        };
-        requiredVersion = 0.1;
+    class ADDON {
+        name = COMPONENT_NAME;
         units[] = {};
         weapons[] = {};
+        requiredVersion = REQUIRED_VERSION;
+        requiredAddons[] = {"vn_emm_main_menu"};
+        author = "SzwedzikPL";
+        authors[] = {"SzwedzikPL"};
+        url = CSTRING(URL);
+        VERSION_CONFIG;
     };
 };
 

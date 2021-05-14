@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="SOGVanillaMainMenu">
+  <Package name="Main">
+    <Key ID="STR_SOGVanillaMainMenu_Main_URL">
+      <English>https://github.com/SzwedzikPL/SOGVanillaMainMenu</English>
+      <French>https://github.com/SzwedzikPL/SOGVanillaMainMenu</French>
+      <Spanish>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Spanish>
+      <Italian>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Italian>
+      <Polish>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Polish>
+      <Russian>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Russian>
+      <German>https://github.com/SzwedzikPL/SOGVanillaMainMenu</German>
+      <Czech>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Czech>
+      <Chinese>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Chinese>
+      <Portuguese>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Portuguese>
+      <Korean>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Korean>
+      <Chinesesimp>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Chinesesimp>
+      <Turkish>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Turkish>
+      <Japanese>https://github.com/SzwedzikPL/SOGVanillaMainMenu</Japanese>
+    </Key>
+  </Package>
+</Project>
